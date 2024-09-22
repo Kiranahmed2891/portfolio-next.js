@@ -20,7 +20,7 @@ const About = () => {
               About Me
             </h1>
             <p className="mb-5 leading-relaxed">
-              Hi, I'm Kiran Ahmed, a skilled Frontend Developer and UI/UX Designer with a passion for creating visually stunning and user-friendly interfaces. With a strong foundation in HTML, CSS, and JavaScript, I excel in building responsive and interactive web applications. My expertise in UI/UX design enables me to craft intuitive and aesthetically pleasing designs that enhance user experience. I'm dedicated to staying up-to-date with the latest trends and technologies, ensuring that my projects are always cutting-edge and effective
+              Hi, I&lsquo;m Kiran Ahmed, a skilled Frontend Developer and UI/UX Designer with a passion for creating visually stunning and user-friendly interfaces. With a strong foundation in HTML, CSS, and JavaScript, I excel in building responsive and interactive web applications. My expertise in UI/UX design enables me to craft intuitive and aesthetically pleasing designs that enhance user experience. I&lsquo;m dedicated to staying up-to-date with the latest trends and technologies, ensuring that my projects are always cutting-edge and effective
             </p>
           
             <div className="flex justify-center">

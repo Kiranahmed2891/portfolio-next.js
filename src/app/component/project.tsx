@@ -218,7 +218,7 @@ const Project = () => {
                     CLI calculeter
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                  The Command Line Interface (CLI) Calculator is a simple yet powerful tool designed to perform various mathematical operations. With its intuitive interface, users can easily navigate through the menu and select the desired operation, whether it's basic arithmetic, trigonometric functions, or more complex calculations. This project aims to provide a user-friendly and efficient way to solve mathematical problems, making it an essential tool for students, professionals, and anyone who needs to perform calculations on the go
+                  The Command Line Interface (CLI) Calculator is a simple yet powerful tool designed to perform various mathematical operations. With its intuitive interface, users can easily navigate through the menu and select the desired operation, whether it&lsquo;s basic arithmetic, trigonometric functions, or more complex calculations. This project aims to provide a user-friendly and efficient way to solve mathematical problems, making it an essential tool for students, professionals, and anyone who needs to perform calculations on the go
                   </p>
                   <Link
                     target="_blank"
@@ -283,7 +283,7 @@ const Project = () => {
                     CLI ATM Project
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                  In today's digital age, we need a reliable and efficient ATM system to manage our finances safely and easily. With this system, we can check our account balance, withdraw cash, and deposit money into our account. This ATM system empowers us to take control of our finances
+                  In today&lsquo;s digital age, we need a reliable and efficient ATM system to manage our finances safely and easily. With this system, we can check our account balance, withdraw cash, and deposit money into our account. This ATM system empowers us to take control of our finances
                   </p>
                   <Link
                     target="_blank"
